@@ -10,8 +10,8 @@ Your boss asked you to compile the list of the top 10 largest banks in the world
 - Write a function to load the transformed data frame to an SQL database server as a table.
 - Write a function to run queries on the database table.
 - Run the following queries on the database table:
-  a. Extract the information for the London office, that is Name and MC_GBP_Billion
-  b. Extract the information for the Berlin office, that is Name and MC_EUR_Billion
-  c. Extract the information for New Delhi office, that is Name and MC_INR_Billion
+  - a. Extract the information for the London office, that is Name and MC_GBP_Billion
+  - b. Extract the information for the Berlin office, that is Name and MC_EUR_Billion
+  - c. Extract the information for New Delhi office, that is Name and MC_INR_Billion
   Write a function to log the progress of the code.
   While executing the data initialization commands and function calls, maintain appropriate log entries.
