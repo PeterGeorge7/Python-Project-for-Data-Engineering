@@ -1,0 +1,43 @@
+2024/04/11, 13:25:31 : Preliminaries complete. Initiating ETL process
+2024/04/11, 13:25:33 : Data extraction complete. Initiating Transformation process
+2024/04/11, 13:25:33 : Data transformation complete. Initiating Loading process
+2024/04/11, 13:25:33 : Data saved to CSV file
+2024/04/11, 13:25:33 : SQL Connection initiated
+2024/04/11, 13:25:33 : Data loaded to Database as a table, Executing queries
+2024/04/11, 13:25:33 : Process Complete
+2024/04/11, 13:25:33 : Server Connection closed
+2024/04/11, 13:27:40 : Preliminaries complete. Initiating ETL process
+2024/04/11, 13:27:41 : Data extraction complete. Initiating Transformation process
+2024/04/11, 13:27:41 : Data transformation complete. Initiating Loading process
+2024/04/11, 13:27:41 : Data saved to CSV file
+2024/04/11, 13:27:41 : SQL Connection initiated
+2024/04/11, 13:27:41 : Data loaded to Database as a table, Executing queries
+2024/04/11, 13:27:41 : Process Complete
+2024/04/11, 13:27:41 : Server Connection closed
+2024/04/11, 13:29:06 : Preliminaries complete. Initiating ETL process
+2024/04/11, 13:29:07 : Data extraction complete. Initiating Transformation process
+2024/04/11, 13:29:07 : Data transformation complete. Initiating Loading process
+2024/04/11, 13:29:07 : Data saved to CSV file
+2024/04/11, 13:29:07 : SQL Connection initiated
+2024/04/11, 13:29:07 : Data loaded to Database as a table, Executing queries
+2024/04/11, 13:29:07 : Process Complete
+2024/04/11, 13:29:07 : Server Connection closed
+
+2024/04/11, 13:29:09 : Preliminaries complete. Initiating ETL process
+2024/04/11, 13:29:10 : Data extraction complete. Initiating Transformation process
+2024/04/11, 13:29:10 : Data transformation complete. Initiating Loading process
+2024/04/11, 13:29:10 : Data saved to CSV file
+2024/04/11, 13:29:10 : SQL Connection initiated
+2024/04/11, 13:29:10 : Data loaded to Database as a table, Executing queries
+2024/04/11, 13:29:10 : Process Complete
+2024/04/11, 13:29:10 : Server Connection closed
+
+2024/04/11, 15:58:59 : Preliminaries complete. Initiating ETL process
+2024/04/11, 15:59:00 : Data extraction complete. Initiating Transformation process
+2024/04/11, 15:59:00 : Data transformation complete. Initiating Loading process
+2024/04/11, 15:59:00 : Data saved to CSV file
+2024/04/11, 15:59:00 : SQL Connection initiated
+2024/04/11, 15:59:00 : Data loaded to Database as a table, Executing queries
+2024/04/11, 15:59:00 : Process Complete
+2024/04/11, 15:59:00 : Server Connection closed
+
